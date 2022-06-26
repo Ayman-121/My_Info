@@ -66,6 +66,7 @@ body{
   width:20%;
   height: 100%;
   z-index: 3333;
+  min-height: 100vh;
   img{
     max-width: 100px;
     border-radius: calc(50% - 10px);
@@ -194,8 +195,7 @@ body{
       color: #ffff00;
       line-height: 1.6;
       text-transform: capitalize;
-      padding: 20px 20px 20px 0;
-      padding-left: 30px;
+      padding: 20px 20px 20px 30px;
     }
     p{
       line-height: 1.6;
@@ -237,7 +237,7 @@ body{
     }
   }
   .container{
-    width: 100%;
+    width: 94%;
   }
 }
 @media (max-width:326px) {
