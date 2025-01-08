@@ -9,6 +9,7 @@
 small{
  color:red !important;
   font-size:15px !important;
+    letter-spacing: 2px !important;
 }
 html {
   scroll-behavior: smooth;
