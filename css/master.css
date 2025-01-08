@@ -188,6 +188,10 @@ body {
   top: 0px;
   right: 0px;
 }
+small{
+ color:red;
+  font-size:1rem;
+}
 .name-section h1 {
   text-transform: uppercase;
   letter-spacing: 5px;
